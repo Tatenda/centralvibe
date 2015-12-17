@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+cvenvironment
+db.maindb
+/static
+.DS_Store
